@@ -1,0 +1,15 @@
+Task 2:
+Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. 
+Explore the relationships between variables and identify patterns and trends in the data.
+
+Tools:
+Python
+Pandas Library
+Matplotlib Library
+Seaborn Library
+from scipy import stats
+
+
+Objective Task:
+This project provides a comprehensive analysis of the Titanic dataset. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization of key insights.
+It serves as a solid foundation for understanding the data and uncovering patterns
